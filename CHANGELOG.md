@@ -2,6 +2,15 @@
 
 [Русский](CHANGELOG.ru.md)
 
+## 0.7.1 — 2026-10-28
+
+- Fixed profile/Arcana lookup using LATAM server IDs for other regions.
+- Added official regional server catalogs and a region selector directly in profile and Arcana forms.
+- Server choices update with the region; saved choices from 0.7.0 are migrated by server name.
+- Reject mismatched region/server requests before contacting the profile service.
+
+210 checks passed, including regional IDs, migration and selector changes. Public profile and all five Arcana details verified against EU Kaisinel.
+
 ## 0.7.0 — 2026-10-28
 
 - Added the Updates page, automatic version checks, release notes, download progress and cancellation.

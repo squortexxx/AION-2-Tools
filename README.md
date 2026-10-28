@@ -44,7 +44,7 @@ Resources use game icons and names. Filter the atlas, choose a location and buil
 
 ## Install in a few minutes
 
-1. Download `Nauchpop-tools-0.7.0-setup.exe` from [Releases](https://github.com/squortexxx/AION-2-Tools/releases/latest).
+1. Download `Nauchpop-tools-0.7.1-setup.exe` from [Releases](https://github.com/squortexxx/AION-2-Tools/releases/latest).
 2. Run Setup and choose English or Russian. Windows will request administrator permission for installation.
 3. If Npcap is missing, Setup downloads a pinned, checksum-verified installer from **npcap.com**. Complete the official Npcap wizard; Nauchpop setup then continues. Npcap is not bundled.
 4. Launch Nauchpop tools, then enter AION 2. If you are already in the game, produce some game activity; reconnecting your character can provide missing initial data.

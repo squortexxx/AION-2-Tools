@@ -21,7 +21,7 @@ For the portable ZIP, extract all files into a writable folder. Launch `Nauchpop
 
 ## First connection
 
-Launch Nauchpop tools and enter the game. In **Settings → Connection**, enter your character name and select the matching region and server. Public-profile lookup matches both name and server.
+Launch Nauchpop tools and enter the game. In **Settings → Connection**, enter your character name and select the matching region and server. Public-profile lookup matches name, region and server. The Character and Arcana forms also provide region and server selectors; a server name can repeat across regions with different IDs.
 
 To populate data, open the relevant in-game windows:
 
