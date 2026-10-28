@@ -1,0 +1,14 @@
+# Release binaries belong in GitHub Releases, never in the documentation tree.
+*.exe
+*.dll
+*.pdb
+*.zip
+*.pcap
+*.pcapng
+*.key
+*.pfx
+*.pem
+settings.json
+progress.json
+bin/
+obj/
