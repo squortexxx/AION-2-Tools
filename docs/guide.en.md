@@ -63,6 +63,14 @@ Use **Me / Party** and **All targets / Bosses only** in the combat window. Playe
 
 The target panel is independent of DPS. It retains the last target after death so you can review it. CP and GS appear only when reported by the game or obtained from a matching public profile; missing values are shown as unavailable.
 
+## Equipment
+
+Open **Character** to inspect equipped items reported by the public profile. Known character data loads automatically when automatic public profiles are enabled. **Load** requests fresh data; background lookups keep their normal cache.
+
+Use search and the equipment/category filter to find a slot. Select a card for item level, stats, enhancement bonuses, manastones, granted skills and available sources. The list and inspector scroll independently. Matching item IDs in two slots, such as rings, keep independent details. The view shows equipped items rather than claiming access to the full bag contents.
+
+Game icons are bundled where available. Missing PNGs are loaded only from the official game CDN and cached locally. A missing image does not prevent viewing the item.
+
 ## Hunting, atlas and cubes
 
 In **Hunting**, search for a pet, filter collection progress and pin the targets you want. From the hunting overlay, use **Add**, **From target**, or the remove action without opening the main application. Map actions show known locations and remaining souls. The estimated number of kills appears only after enough drops have been observed.

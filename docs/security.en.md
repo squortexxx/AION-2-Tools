@@ -8,6 +8,7 @@
 | --- | --- |
 | Local AION 2 connection, via Npcap | Combat, target, collection, skills and nearby objects |
 | Local game catalogs and images | Map markers, names, class/skill/resource icons and reference locations |
+| assets.playnccdn.com | Missing equipment icons, cached locally; fixed HTTPS resources path, PNGs only, no redirects or credentials |
 | Public NCSOFT profile endpoints | Optional equipment, CP, GS and Arcana lookup using character name, server and region |
 | This repository's GitHub Releases | Update manifest and installation packages |
 | npcap.com during setup | Official Npcap download if the driver is missing |

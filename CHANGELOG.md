@@ -2,6 +2,16 @@
 
 [Русский](CHANGELOG.ru.md)
 
+## 0.7.2 — 2026-10-28
+
+- Replaced the equipment table with game-icon cards, rarity and enhancement, category filters and search.
+- Added an item inspector for stats, manastones, granted skills and available acquisition sources.
+- Fixed real names being replaced by numeric placeholders and missing main-hand/off-hand slot labels.
+- Added bounded official-CDN image caching and local icon fallbacks.
+- Automatic own-profile loading respects the public-profile setting; manual loading now refreshes equipment.
+
+251 checks passed across English/Russian, light/dark, narrow layouts, parsing and image URL validation.
+
 ## 0.7.1 — 2026-10-28
 
 - Fixed profile/Arcana lookup using LATAM server IDs for other regions.

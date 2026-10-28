@@ -40,11 +40,17 @@ Resources use game icons and names. Filter the atlas, choose a location and buil
 
 ![English hunting and pet collection page](docs/images/en-pets.png)
 
+### Equipment you can actually inspect
+
+Browse game-icon cards with real item names, rarity, enhancement and slot labels. Search or filter your equipment, then select an item for stats, manastones, granted skills and acquisition sources in a separate inspector. Manual loading refreshes the public-profile data.
+
+![English equipment browser and item inspector](docs/images/en-equipment.png)
+
 *Screenshots are rendered by the application. Combat and hunting previews use illustrative data; they are not live gameplay measurements.*
 
 ## Install in a few minutes
 
-1. Download `Nauchpop-tools-0.7.1-setup.exe` from [Releases](https://github.com/squortexxx/AION-2-Tools/releases/latest).
+1. Download `Nauchpop-tools-0.7.2-setup.exe` from [Releases](https://github.com/squortexxx/AION-2-Tools/releases/latest).
 2. Run Setup and choose English or Russian. Windows will request administrator permission for installation.
 3. If Npcap is missing, Setup downloads a pinned, checksum-verified installer from **npcap.com**. Complete the official Npcap wizard; Nauchpop setup then continues. Npcap is not bundled.
 4. Launch Nauchpop tools, then enter AION 2. If you are already in the game, produce some game activity; reconnecting your character can provide missing initial data.
